@@ -74,8 +74,8 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 98vh;
-  background-image: url(../images/hero.jpg);
+  height: 20vh;
+  background-image: url(../images/fondo.jfif);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -229,7 +229,7 @@ a:focus {
 
 .hero_section .hero_btn-box a:hover {
   background-color: #ffffff;
-  color: #00ff00;
+  color: #a32222;
 }
 
 .sub_page .about_section .about_container {
@@ -312,11 +312,11 @@ a:focus {
 }
 
 .product_section .img-box.box-1, .product_section .img-box.box-3 {
-  width: 43%;
+  width: 48%;
 }
 
 .product_section .img-box.box-2, .product_section .img-box.box-4 {
-  width: 53%;
+  width: 48%;
 }
 
 .product_section a {
